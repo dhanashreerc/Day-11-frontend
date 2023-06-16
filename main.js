@@ -6,4 +6,6 @@ function addRecord(){
 
     //connect the backend-ajax
     fetch(uri);
+
+    message.value="";
 }
